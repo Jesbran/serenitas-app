@@ -1,11 +1,9 @@
 # Serenitas 🌿
 
-Un diario personal y biblioteca de sabiduría estoica para cultivar la paz interior y la resiliencia.
+Un diario personal y biblioteca de sabiduría para cultivar la paz interior y la resiliencia.
 
-**[✨ Ver la Demo en Vivo ✨](https://AQUÍ-VA-TU-URL-DE-VERCEL.app)**
+**[✨ Ver la Demo en Vivo ✨](https://jesbran.github.io/serenitas-app/)**
 
-![Captura de pantalla de la app Serenitas](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6) 
-*(Nota: Reemplaza esta imagen con una captura de tu propia app)*
 
 ## Sobre el Proyecto
 
